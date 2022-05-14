@@ -5,24 +5,15 @@
     <link>https://www.juanmarianieves.com/categories/</link>
     <description>Recent content in Categories on Juan Maria Nieves Gomez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
+    <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://www.juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://www.juanmarianieves.com/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Hola mundo</title>
+      <link>https://www.juanmarianieves.com/categories/hola-mundo/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.juanmarianieves.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://www.juanmarianieves.com/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.juanmarianieves.com/categories/golang/</guid>
+      <guid>https://www.juanmarianieves.com/categories/hola-mundo/</guid>
       <description></description>
     </item>
     
