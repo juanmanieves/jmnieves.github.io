@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.juanmarianieves.com/about/</loc>
+    <loc>https://juanmarianieves.com/about/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/categories/</loc>
+    <loc>https://juanmarianieves.com/categories/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/categories/hola-mundo/</loc>
+    <loc>https://juanmarianieves.com/categories/hola-mundo/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</loc>
+    <loc>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/</loc>
+    <loc>https://juanmarianieves.com/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/posts/</loc>
+    <loc>https://juanmarianieves.com/posts/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.juanmarianieves.com/series/</loc>
+    <loc>https://juanmarianieves.com/series/</loc>
   </url><url>
-    <loc>https://www.juanmarianieves.com/tags/</loc>
+    <loc>https://juanmarianieves.com/tags/</loc>
   </url>
 </urlset>

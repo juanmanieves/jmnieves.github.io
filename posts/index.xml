@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Juan Maria Nieves Gomez</title>
-        <link>https://www.juanmarianieves.com/posts/</link>
+        <link>https://juanmarianieves.com/posts/</link>
         <description>Recent content in Posts on Juan Maria Nieves Gomez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://www.juanmarianieves.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://juanmarianieves.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Hola mundo blog en Hugo</title>
-            <link>https://www.juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</link>
+            <link>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</link>
             <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://www.juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
+            <guid>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
             <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema</description>
             <content type="html"><![CDATA[<h2 id="consolewritehola-mundo">Console.Write(&ldquo;HOLA MUNDO&rdquo;)</h2>
 <p>Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema</p>

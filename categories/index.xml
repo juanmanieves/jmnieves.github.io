@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Juan Maria Nieves Gomez</title>
-    <link>https://www.juanmarianieves.com/categories/</link>
+    <link>https://juanmarianieves.com/categories/</link>
     <description>Recent content in Categories on Juan Maria Nieves Gomez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola mundo</title>
-      <link>https://www.juanmarianieves.com/categories/hola-mundo/</link>
+      <link>https://juanmarianieves.com/categories/hola-mundo/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.juanmarianieves.com/categories/hola-mundo/</guid>
+      <guid>https://juanmarianieves.com/categories/hola-mundo/</guid>
       <description></description>
     </item>
     

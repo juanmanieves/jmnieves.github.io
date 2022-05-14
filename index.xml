@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Maria Nieves Gomez</title>
-    <link>https://www.juanmarianieves.com/</link>
+    <link>https://juanmarianieves.com/</link>
     <description>Recent content on Juan Maria Nieves Gomez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca de mí</title>
-      <link>https://www.juanmarianieves.com/about/</link>
+      <link>https://juanmarianieves.com/about/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.juanmarianieves.com/about/</guid>
+      <guid>https://juanmarianieves.com/about/</guid>
       <description>Me apasiona programar y aprender nuevas tecnologías y aplicarlas .
 Con más de 15 años de experiencia en desarrollo .NET me he podido especializar en:
  .NET/.NET Core ASP MVC Creación de WebApis Entity Framework. BBDD Relacionales (MSSQL, MYSQL&amp;hellip;)  He podido aprender otras tecnologias como:
@@ -23,10 +23,10 @@ Con más de 15 años de experiencia en desarrollo .NET me he podido especializar
     
     <item>
       <title>Hola mundo blog en Hugo</title>
-      <link>https://www.juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</link>
+      <link>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
+      <guid>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
       <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema</description>
     </item>
     
