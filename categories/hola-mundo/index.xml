@@ -14,7 +14,7 @@
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
-      <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema</description>
+      <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema. No os voy a marear con artículo de como montar hugo en github pages por que tenemos muy buenos artículos como Blog con Hugo y GitHub Pages, donde encontrareis una muy buena guia en castellano de montaros vuestro propio blog con hugo y git hub pages. Lo que si os dejo son lo cómodo que es &amp;ldquo;compilar&amp;rdquo; hugo, probarlo en local y subirlo.</description>
     </item>
     
   </channel>
