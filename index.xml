@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uso de RabbitMQ en .Net</title>
+      <link>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</guid>
+      <description>docker pull rabbitmq docker network create myrabbit docker run -d --network myrabbit --name rabbit -p 15672:15672 -p 5672:5672 rabbitmq rabbitmq-plugins enable rabbitmq_management private RabbitConsumer CreateConsumerForQueue(string queueName) {  RabbitConsumer RabbitConsumer = new RabbitConsumer() { QueueName = queueName };  InitChannel(RabbitConsumer, queueName);  RabbitConsumer.Consumer = new AsyncEventingBasicConsumer(RabbitConsumer.Channel);  RabbitConsumer.Consumer.Received += Consumer_Received;  RabbitConsumer.Channel.BasicConsume(queue: queueName,  autoAck: false,  consumer: RabbitConsumer.Consumer);  return RabbitConsumer; } private void InitChannel(RabbitConsumer rabbitConsumer,string queueName) {  ConnectionFactory ConnectionFactory = new ConnectionFactory() { DispatchConsumersAsync = true, HostName = _rabbitConfig.</description>
+    </item>
+    
     <item>
       <title>Acerca de mí</title>
       <link>https://juanmarianieves.com/about/</link>
@@ -18,7 +27,7 @@
 Con más de 15 años de experiencia en desarrollo .NET me he podido especializar en:
  .NET/.NET Core ASP MVC Creación de WebApis Entity Framework. BBDD Relacionales (MSSQL, MYSQL&amp;hellip;)  He podido aprender otras tecnologias como:
  Laravel para entornos LAMP VueJs para front.  Me encanta aplicar patrones de software a las aplicaciones como:
- DDD. Repositories and servies. IoC DI  Me gusta:</description>
+ DDD. Repositories and services. IoC DI  Me gusta:</description>
     </item>
     
     <item>

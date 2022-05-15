@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://juanmarianieves.com/categories/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/categories/docker/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/categories/hola-mundo/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/posts/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/categories/rabbitmq/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://juanmarianieves.com/about/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://juanmarianieves.com/categories/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanmarianieves.com/categories/hola-mundo/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanmarianieves.com/</loc>
-    <lastmod>2022-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanmarianieves.com/posts/</loc>
     <lastmod>2022-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanmarianieves.com/series/</loc>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hola mundo on Juan Maria Nieves Gomez</title>
-    <link>https://juanmarianieves.com/categories/hola-mundo/</link>
-    <description>Recent content in Hola mundo on Juan Maria Nieves Gomez</description>
+    <title>rabbitmq on Juan Maria Nieves Gomez</title>
+    <link>https://juanmarianieves.com/categories/rabbitmq/</link>
+    <description>Recent content in rabbitmq on Juan Maria Nieves Gomez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/categories/hola-mundo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/categories/rabbitmq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uso de RabbitMQ en .Net</title>
       <link>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</guid>
       <description>docker pull rabbitmq docker network create myrabbit docker run -d --network myrabbit --name rabbit -p 15672:15672 -p 5672:5672 rabbitmq rabbitmq-plugins enable rabbitmq_management private RabbitConsumer CreateConsumerForQueue(string queueName) {  RabbitConsumer RabbitConsumer = new RabbitConsumer() { QueueName = queueName };  InitChannel(RabbitConsumer, queueName);  RabbitConsumer.Consumer = new AsyncEventingBasicConsumer(RabbitConsumer.Channel);  RabbitConsumer.Consumer.Received += Consumer_Received;  RabbitConsumer.Channel.BasicConsume(queue: queueName,  autoAck: false,  consumer: RabbitConsumer.Consumer);  return RabbitConsumer; } private void InitChannel(RabbitConsumer rabbitConsumer,string queueName) {  ConnectionFactory ConnectionFactory = new ConnectionFactory() { DispatchConsumersAsync = true, HostName = _rabbitConfig.</description>
-    </item>
-    
-    <item>
-      <title>Hola mundo blog en Hugo</title>
-      <link>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://juanmarianieves.com/posts/2022/05/hola-mundo-blog-en-hugo/</guid>
-      <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema. No os voy a marear con artículo de como montar hugo en github pages por que tenemos muy buenos artículos como Blog con Hugo y GitHub Pages, donde encontrareis una muy buena guia en castellano de montaros vuestro propio blog con hugo y git hub pages. Lo que si os dejo son lo cómodo que es &amp;ldquo;compilar&amp;rdquo; hugo, probarlo en local y subirlo.</description>
     </item>
     
   </channel>

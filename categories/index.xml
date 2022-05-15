@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://juanmarianieves.com/categories/docker/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanmarianieves.com/categories/docker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Hola mundo</title>
       <link>https://juanmarianieves.com/categories/hola-mundo/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://juanmarianieves.com/categories/hola-mundo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rabbitmq</title>
+      <link>https://juanmarianieves.com/categories/rabbitmq/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanmarianieves.com/categories/rabbitmq/</guid>
       <description></description>
     </item>
     
