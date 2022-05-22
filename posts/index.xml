@@ -10,15 +10,21 @@
         <atom:link href="https://juanmarianieves.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Enlaces interesantes #1</title>
-            <link>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</link>
+            <title>Enlaces interesantes 001</title>
+            <link>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-001/</link>
             <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</guid>
-            <description>Enlaces interesantes #1 .NET Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</description>
-            <content type="html"><![CDATA[<h2 id="enlaces-interesantes-1">Enlaces interesantes #1</h2>
-<p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Bash" data-lang="Bash"><span style="display:flex;"><span>.NET</span></span></code></pre></div>
-<a href="%22https://youtu.be/ei6T2wD9mCY%22">Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</a></p>
+            <guid>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-001/</guid>
+            <description>.NET/.NET CORE  Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend Describiendo APIs ASP.NET Core con Swagger  OTROS ENLACES  Visual Studio 2022 17.2 is now available!  </description>
+            <content type="html"><![CDATA[<h2 id="netnet-core">.NET/.NET CORE</h2>
+<ul>
+<li><a href="https://youtu.be/ei6T2wD9mCY">Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</a></li>
+<li><a href="https://www.variablenotfound.com/2020/01/describiendo-apis-aspnet-core-con.html">Describiendo APIs ASP.NET Core con Swagger</a></li>
+</ul>
+<h2 id="otros-enlaces">OTROS ENLACES</h2>
+<ul>
+<li><a href="https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-2-is-now-available/">Visual Studio 2022 17.2 is now available!</a></li>
+</ul>
 ]]></content>
         </item>
         
@@ -120,7 +126,7 @@
             <description>Console.Write(&amp;ldquo;HOLA MUNDO&amp;rdquo;) Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema. No os voy a marear con artículo de como montar hugo en github pages por que tenemos muy buenos artículos como Blog con Hugo y GitHub Pages, donde encontrareis una muy buena guia en castellano de montaros vuestro propio blog con hugo y git hub pages. Lo que si os dejo son lo cómodo que es &amp;ldquo;compilar&amp;rdquo; hugo, probarlo en local y subirlo.</description>
             <content type="html"><![CDATA[<h2 id="consolewritehola-mundo">Console.Write(&ldquo;HOLA MUNDO&rdquo;)</h2>
 <p>Empezando esta andadura de tener mi página personal y blog alojados en Git Hub Pages usando Hugo para montar todo el sistema. No os voy a marear con artículo de como montar hugo en github pages por que tenemos
-muy buenos artículos como <a href="%22https://github.com/cristinafsanz/melies-hugo%22">Blog con Hugo y GitHub Pages</a>, donde encontrareis una muy buena guia en castellano de montaros vuestro propio blog con hugo y git hub pages. Lo que si os dejo son lo cómodo que es &ldquo;compilar&rdquo; hugo, probarlo en local y subirlo. A mi me recuerda a cuando lanzas una app angular. Que tiempos aquellos en los que se subian las cosas a un FTP&hellip; ahora con GIT todo son ventajas, quizas me hago viejo&hellip; pero ya sabes lo que dicen&hellip; <strong>&ldquo;Más sabe el diablo por viejo que por pellejo&rdquo;</strong>.</p>
+muy buenos artículos como <a href="https://github.com/cristinafsanz/melies-hugo">Blog con Hugo y GitHub Pages</a>, donde encontrareis una muy buena guia en castellano de montaros vuestro propio blog con hugo y git hub pages. Lo que si os dejo son lo cómodo que es &ldquo;compilar&rdquo; hugo, probarlo en local y subirlo. A mi me recuerda a cuando lanzas una app angular. Que tiempos aquellos en los que se subian las cosas a un FTP&hellip; ahora con GIT todo son ventajas, quizas me hago viejo&hellip; pero ya sabes lo que dicen&hellip; <strong>&ldquo;Más sabe el diablo por viejo que por pellejo&rdquo;</strong>.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Bash" data-lang="Bash"><span style="display:flex;"><span>hugo</span></span></code></pre></div>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Bash" data-lang="Bash"><span style="display:flex;"><span>hugo serve</span></span></code></pre></div>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ini" data-lang="ini"><span style="display:flex;"><span><span style="color:#a6e22e">git push origin master</span></span></span></code></pre></div>
