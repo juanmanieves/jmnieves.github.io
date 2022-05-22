@@ -6,8 +6,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://juanmarianieves.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Enlaces interesantes #1</title>
+            <link>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</link>
+            <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</guid>
+            <description>Enlaces interesantes #1 .NET Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</description>
+            <content type="html"><![CDATA[<h2 id="enlaces-interesantes-1">Enlaces interesantes #1</h2>
+<p><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Bash" data-lang="Bash"><span style="display:flex;"><span>.NET</span></span></code></pre></div>
+<a href="%22https://youtu.be/ei6T2wD9mCY%22">Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>Uso de RabbitMQ en .Net</title>

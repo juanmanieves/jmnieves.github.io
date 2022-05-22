@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juanmarianieves.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enlaces interesantes #1</title>
+      <link>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</guid>
+      <description>Enlaces interesantes #1 .NET Utilizar Swagger con .Net 5 y Angular 11, programando como fullstack 🦄 creando backend y frontend</description>
+    </item>
+    
     <item>
       <title>Uso de RabbitMQ en .Net</title>
       <link>https://juanmarianieves.com/posts/2022/05/uso-de-rabbitmq-en-.net/</link>

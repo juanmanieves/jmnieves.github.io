@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://juanmarianieves.com/categories/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/categories/enlaces-interesantes/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/posts/2022/05/enlaces-interesantes-#1/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juanmarianieves.com/posts/</loc>
+    <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanmarianieves.com/categories/docker/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanmarianieves.com/categories/hola-mundo/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanmarianieves.com/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juanmarianieves.com/posts/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juanmarianieves.com/categories/rabbitmq/</loc>
